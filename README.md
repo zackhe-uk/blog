@@ -1,8 +1,6 @@
 # zackhe-blog.github.io
-personal blog of the zackhe.uk webmaster
-
-> [!IMPORTANT]
-> MUST READ! [Organisation transfer](/transfer)
+NO LONGER THE personal blog of the zackhe.uk webmaster THANKS TO GITHUB
 
 posts:
  - [holidays](/holidays), 8 oct 25
+ - [github](/friend), 14 dec 25
